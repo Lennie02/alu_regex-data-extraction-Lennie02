@@ -1,10 +1,10 @@
-# 🧠 Data Extractor Web App
+## 🧠 Data Extractor Web App
 
 A lightweight, browser-based tool that extracts structured data from raw text using regular expressions. Designed for educational and practical use, this app highlights and organizes matches for emails, phone numbers, time formats, credit card numbers, and currency amounts.
 
 ---
 
-# 📁 File Structure
+### 📁 File Structure
 ~~~
 alu_regex-data-extraction-Lennie02/
 │
@@ -41,7 +41,7 @@ The app must extract the following data types from user input:
   - `$1,234.56`
 
 ---
-###### 🔍 Regex Summary
+### 🔍 Regex Summary
 
 | Data Type            | Regex Pattern |
 |----------------------|---------------|
