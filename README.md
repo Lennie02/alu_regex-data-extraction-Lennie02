@@ -5,11 +5,13 @@ A lightweight, browser-based tool that extracts structured data from raw text us
 ---
 
 # 📁 File Structure
+~~~
 alu_regex-data-extraction-Lennie02/
 │
 ├── index.html       # Main HTML interface
 ├── regex.js         # Regex fonctions
-└── readmefile      
+└── readmefile
+~~~
 ---
 
 ### 📌 Assignment Requirements
