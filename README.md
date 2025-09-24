@@ -7,10 +7,9 @@ A lightweight, browser-based tool that extracts structured data from raw text us
 ### 📁 File Structure
 ~~~
 alu_regex-data-extraction-Lennie02/
-│
-├── index.html       # Main HTML interface
-├── regex.js         # Regex fonctions
-|─  style.css        
+├── index.html      # HTML interface
+├── regex.js        # Regular expressions fonctions
+├── style.css       # CSS interface
 └── readmefile
 ~~~
 ---
