@@ -10,6 +10,7 @@ alu_regex-data-extraction-Lennie02/
 │
 ├── index.html       # Main HTML interface
 ├── regex.js         # Regex fonctions
+|─  style.css        
 └── readmefile
 ~~~
 ---
