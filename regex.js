@@ -37,3 +37,9 @@ function extractData() {
 
   resultsDiv.innerHTML = output;
 }
+// Added these lines to connect buttons to functions:
+document.getElementById("extractData").onclick = extractData;
+document.getElementById("clearbutton").onclick = function() {
+    document.getElementById("inputText").value = "";
+    document.getElementById("results").classList.remove('show');
+};
